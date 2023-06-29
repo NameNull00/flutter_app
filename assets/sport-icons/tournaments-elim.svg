@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-37.986 -12.537)">
+<g>
+<rect x="47.941" y="19.326" width="4.7085" height="2.193" rx="1.0965" ry="1.0965"/>
+<rect x="53.906" y="23.463" width="4.7085" height="2.193" rx="1.0965" ry="1.0965"/>
+<rect x="47.941" y="27.642" width="4.7085" height="2.193" rx="1.0965" ry="1.0965"/>
+<rect x="41.404" y="17.213" width="4.7085" height="2.193" rx="1.0965" ry="1.0965"/>
+<rect x="41.358" y="21.447" width="4.7085" height="2.193" rx="1.0965" ry="1.0965"/>
+<rect x="41.358" y="25.562" width="4.7085" height="2.193" rx="1.0965" ry="1.0965"/>
+<rect x="41.358" y="29.668" width="4.7085" height="2.193" rx="1.0965" ry="1.0965"/>
+<path d="m37.986 12.537v24h24v-24zm1.9999 1.9999h20v20h-20z"/>
+<rect x="46.859" y="17.286" width=".4515" height="6.3532" ry=".22575"/>
+<rect x="46.859" y="25.606" width=".4515" height="6.3532" ry=".22575"/>
+<rect x="53.083" y="19.302" width=".4515" height="10.546" ry=".22575"/>
+</g>
+</g>
+</svg>

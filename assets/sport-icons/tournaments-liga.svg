@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-6.3823 -12.236)">
+<circle cx="11.296" cy="18.528" r=".7986"/>
+<rect x="13.271" y="17.431" width="12.997" height="2.193" rx="1.0965" ry="1.0965"/>
+<circle cx="11.296" cy="22.365" r=".7986"/>
+<rect x="13.271" y="21.269" width="12.997" height="2.193" rx="1.0965" ry="1.0965"/>
+<circle cx="11.296" cy="26.138" r=".7986"/>
+<rect x="13.271" y="25.042" width="12.997" height="2.193" rx="1.0965" ry="1.0965"/>
+<circle cx="11.296" cy="29.944" r=".7986"/>
+<rect x="13.271" y="28.847" width="12.997" height="2.193" rx="1.0965" ry="1.0965"/>
+<path d="m6.3823 12.236v24h24v-24zm1.9999 1.9999h20v20h-20z"/>
+</g>
+</svg>
